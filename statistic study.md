@@ -1,4 +1,3 @@
-# MA660E Lab Assignment
 
 **Course:** MA660E  
 **Instructor:** Dr. Yuanji Cheng  
